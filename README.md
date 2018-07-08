@@ -8,9 +8,9 @@ https://www.mjam.net/api/v3/restaurants/search/
 
 Endpoint is implemented following this documentation:
 
-Only method GET is allowed.
-Authorization is done through token in Authorization header.
-Mandatory parameter for request is address.
+1. Only method GET is allowed.
+2. Authorization is done through token in Authorization header.
+3. Mandatory parameter for request is address.
 
 Example of using the endpoint:
 
