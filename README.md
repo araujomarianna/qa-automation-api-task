@@ -17,5 +17,5 @@ Example of using the endpoint:
 curl -X GET -H 'Authorization:Token 0d6fcd84b74e2d81606e8daf5b1575c7c3fcfb40' https://www.mjam.net/api/v3/restaurants/search/?address=Liezen
 
 ## How to run
-`pytest`
+`pytest`  
 At the end of execution a HTML report is generated
